@@ -14,7 +14,7 @@ These solutions were written and published solely for educational and self-study
 
 </details>
 
-<details open>
+<details>
 <summary>A note on broken helper code for pset 5</summary>
 
 <br>
